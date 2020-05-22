@@ -1,0 +1,19 @@
+{
+    "pokemon": [
+        {
+            "name": "OwL's Gengar",
+            "lvl": 240,
+            "stats": {
+                "atk": 60,
+                "def": 80,
+                "spAtk": 100
+            },
+            "attacks": [
+                {"name": "Dream Disk", "type": "spAtk", "damage": 20, "effects": ["asleep"]},
+                {"name": "Bellyflop", "type": "atk", "damage": 60, "effects": []},
+                {"name": "Shadow Ball", "type": "spAtk", "damage": 40, "effects": []},
+                {"name": "Shadow Claw", "type": "atk", "damage": 70, "effects": []}
+            ]
+        }
+    ]
+}
